@@ -1,7 +1,7 @@
 # 📊 Análise de Acidentes Rodoviários - Sul e Sudeste
 
 ## 📌 Visão Geral
-Este projeto consiste em um painel interativo desenvolvido no Power BI Desktop para analisar as ocorrências de acidentes de trânsito nas regiões Sul e Sudeste do Brasil, permitindo a exploração de métricas de gravidade, tipos de acidentes e localização geográfica.
+Projeto Acadêmico, este projeto consiste em um painel interativo desenvolvido no Power BI Desktop para analisar as ocorrências de acidentes de trânsito nas regiões Sul e Sudeste do Brasil, permitindo a exploração de métricas de gravidade, tipos de acidentes e localização geográfica.
 
 ---
 
